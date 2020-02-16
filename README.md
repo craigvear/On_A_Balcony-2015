@@ -6,6 +6,16 @@ This composition is inspired by my personal experience of sitting on a balcony i
 
 On a Balcony (2015) is the third movement of a collection of works entitled the Sea Quartet.
 
+NOTE: These scores are based in software. Although they share many similar properties to that of paper based/traditional scoring methods, they also benefit from the usability and functionality of dynamic software environments. The visual information will be familiar to the musician and welcomed by a curious spirit of adventure. Above all, these scores are responsive, evolving as the performance progresses – giving the feeling of being alive – and should be considered as co-operative creative partners.
+
+IMPORTANT -
+
+This score is based in Max/MSP. This must be downloaded and installed prior to operation.
+
+Some of the folders contain a document called 'get_files'. These provide a link to media files stored on Dropbox that are required to operate the score. These must be downloaded first and placed in each of the correspondng folders.
+
+
+
 ## Craig Vear
 ## On a Balcony for two instruments
 ## (2015)
